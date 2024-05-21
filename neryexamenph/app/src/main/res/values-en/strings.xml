@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">App_CobrosJustos</string>
+    <string name="titulo_inicio">App for recording payments</string>
+    <string name="MedidorDe">*Meter of:</string>
+    <string name="Fecha">Date*</string>
+    <string name="Registrar_medicion">Record</string>
+    <string name="titulo_pagina_2">Meter record</string>
+    <string name="nombre_boton">Enter registration</string>
+    <string name="Medidor">Measurer*</string>
+    <string name="Iluz">light</string>
+    <string name="Igas">gas</string>
+    <string name="Iagua">water</string>
+</resources>

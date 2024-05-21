@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">App_CobrosJustos</string>
+    <string name="titulo_inicio">App para el registro de cobros</string>
+    <string name="nombre_boton">Ingresar registro:</string>
+    <string name="titulo_pagina_2">Registro medidor</string>
+    <string name="MedidorDe">*Medidor de:</string>
+    <string name="Medidor">Medidor*:</string>
+    <string name="Fecha">Fecha*</string>
+    <string name="Iagua">agua</string>
+    <string name="Iluz">luz</string>
+    <string name="Igas">gas</string>
+    <string name="Registrar_medicion">Registrar medición</string>
+</resources>
